@@ -1,3 +1,13 @@
+# FastAPI-CRUD
+FastAPI CRUD Example
+
+![screenshot ](https://github.com/user-attachments/assets/bc79cf26-33e3-4535-ac7f-3554a1612c6d)
+
+
+
+
+
+
 # FastAPI CRUD App
 This is a simple app designed to play around with FastAPI with a basic CRUD app.
 
